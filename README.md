@@ -14,4 +14,4 @@ python2 run.py
 
 ## Jika Tidak Punya File Dump Kalian Tinggal Wa Admin Aja
 
-Wa.me/6283832629798
+https://Wa.me/6283832629798
